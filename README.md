@@ -9,4 +9,4 @@ Deep Learning Specialization Coursera
 
  ~~4. Convolutional Neural Networks~~
  
-  5. Sequence Models
+  ~~5. Sequence Models~~
